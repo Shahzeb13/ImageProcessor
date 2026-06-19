@@ -1,0 +1,22 @@
+# Face Recognition — data, cache, OS files
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.pt
+*.onnx
+
+# Env
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
